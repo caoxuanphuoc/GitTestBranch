@@ -7,7 +7,7 @@ Git rebase is a powerful feature in version control systems like Git that allows
 
 During a rebase, Git identifies the common ancestor commit between the source branch and the target branch. It then replays the changes made in the source branch on top of the target branch, creating a linear commit history. This process helps to keep the commit history clean and easy to understand.
 
-Rebasing is particularly useful when working with feature branches. Instead of merging the changes from the source branch into the target branch, a rebase allows you to apply the changes on top of the latest commit in the target branch. This results in a more streamlined and cohesive commit history.
+Rebasing is particularly useful when working with feature branches. Instesdd[ of merging the changes from the source--Change code herer-- branch into the target bran]ch, a rebase allows you to apply the changes on top of the latest commit in the target branch. This results in a more streamlined and cohesive commit history.
 
 However, it's important to note that rebasing rewrites the commit history, which can cause conflicts if multiple developers are working on the same branch. Therefore, it's recommended to use rebase on local branches or when working on personal feature branches.
 
