@@ -12,3 +12,5 @@ Rebasing is particularly useful when working with feature branches. Instead of m
 However, it's important to note that rebasing rewrites the commit history, which can cause conflicts if multiple developers are working on the same branch. Therefore, it's recommended to use rebase on local branches or when working on personal feature branches.
 
 In summary, git rebase is a powerful tool for integrating changes and maintaining a clean commit history. It allows you to combine commits, streamline the commit history, and create a more organized development workflow.
+
+just add in line to check the rebase
