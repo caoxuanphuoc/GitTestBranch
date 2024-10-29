@@ -9,4 +9,5 @@ bat dau commit
 commit conflic
 commit conflic v3
 hahah v3
+hahah v4
 ===========================================
