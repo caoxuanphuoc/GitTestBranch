@@ -12,4 +12,5 @@ commit conflic v4
 commit conflic v5
 commit conflic v6
 commit conflic rb v4 cm1
+commit conflic rb v4 cm2
 ===========================================
