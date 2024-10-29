@@ -8,4 +8,5 @@ bat dau commit
 =============Content sub 1=================
 commit conflic
 commit conflic v3
+hahah v3
 ===========================================
